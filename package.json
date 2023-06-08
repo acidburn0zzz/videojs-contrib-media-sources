@@ -114,6 +114,6 @@
     "videojs-flash": "^1.0.0-RC.1",
     "videojs-standard": "^4.0.3",
     "watchify": "^3.6.0",
-    "webpack": "^1.13.2"
+    "webpack": "^5.86.0"
   }
 }
